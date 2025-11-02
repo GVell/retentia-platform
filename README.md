@@ -1,6 +1,7 @@
-# RetentIA Platform
-
 <div align="center">
+  <img src="assets/screenshots/logo-retentia.png" alt="RetentIA Logo" width="450"/>
+  
+  <h1>RetentIA Platform</h1>
   
   ![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=for-the-badge&logo=next.js)
   ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
@@ -268,6 +269,12 @@ Este projeto foi desenvolvido durante o **Hackathon FATEC Ribeirão Preto** (Out
 - Design de sistemas de scoring preditivo
 - Desenvolvimento sob pressão de tempo
 - Comunicação técnica e apresentação de produto
+
+---
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
