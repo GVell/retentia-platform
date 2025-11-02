@@ -1,4 +1,4 @@
-# 🏆 RetentIA Platform
+# RetentIA Platform
 
 <div align="center">
   
@@ -12,9 +12,9 @@
 <br />
 
 <p align="center">
-  <strong>Plataforma preditiva de retenção de talentos</strong>
+  <strong>Plataforma Preditiva de Retenção de Talentos</strong>
   <br />
-  🥇 Vencedor do Hackathon FATEC Ribeirão Preto - Outubro 2024
+  🥇 Vencedor do Hackathon FATEC Ribeirão Preto - Outubro 2025
 </p>
 
 ---
@@ -90,7 +90,6 @@ RetentIA oferece uma abordagem **proativa** ao identificar colaboradores em risc
 - ✅ **Perfis Individuais** - Análise detalhada por colaborador
 - ✅ **Motor de Recomendações** - Sugestões automáticas de intervenção
 - ✅ **Gestão de Ações** - Rastreamento de medidas preventivas
-- ✅ **Interface em PT-BR** - Totalmente em português brasileiro
 - ✅ **Dados Mockados** - Dataset fictício para demonstração
 
 ### Planejadas (Roadmap)
@@ -101,7 +100,7 @@ RetentIA oferece uma abordagem **proativa** ao identificar colaboradores em risc
 
 ---
 
-## 🧮 Algoritmo de Score
+## Algoritmo de Score
 
 O sistema calcula um score de risco (0-100) baseado em **6 categorias** com pesos diferenciados:
 
@@ -255,7 +254,7 @@ retentia-platform/
 
 ## 🏆 Contexto do Desenvolvimento
 
-Este projeto foi desenvolvido durante o **Hackathon FATEC Ribeirão Preto** (Outubro 2024), onde conquistou o **primeiro lugar**. 
+Este projeto foi desenvolvido durante o **Hackathon FATEC Ribeirão Preto** (Outubro 2025), conquistando o **primeiro lugar**. 
 
 **Desafios Superados:**
 - ⚡ Desenvolvimento completo em **48 horas**
@@ -267,24 +266,18 @@ Este projeto foi desenvolvido durante o **Hackathon FATEC Ribeirão Preto** (Out
 **Aprendizados:**
 - Prototipagem rápida com Next.js e TypeScript
 - Design de sistemas de scoring preditivo
-- Desenvolvimento solo sob pressão de tempo
+- Desenvolvimento sob pressão de tempo
 - Comunicação técnica e apresentação de produto
-
----
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
 ## 👨‍💻 Autor
 
-**Lucas Velloso**
+**Gabriel Velloso**
 
 - GitHub: [@GVell](https://github.com/GVell)
-- LinkedIn: [Adicione seu LinkedIn aqui]
-- Email: [Adicione seu email profissional aqui]
+- LinkedIn: [Gabriel Velloso Ribeiro](https://www.linkedin.com/in/gabriel-velloso-ribeiro)
+- Email: [gvellribeiro@gmail.com]
 
 ---
 
@@ -305,6 +298,5 @@ Sinta-se à vontade para verificar a [página de issues](https://github.com/GVel
 ---
 
 <div align="center">
-  <p>Desenvolvido com ❤️ durante o Hackathon FATEC-RP 2024</p>
-  <p><strong>⭐ Se este projeto foi útil, considere deixar uma estrela no GitHub!</strong></p>
+  <p>Desenvolvido com ❤️ durante o Hackathon FATEC-RP 2025</p>
 </div>
